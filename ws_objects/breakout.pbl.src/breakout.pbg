@@ -6,5 +6,4 @@
  "breakout.sra" "breakout.pbl";
  "d_breakout.srd" "breakout.pbl";
  "w_breakout.srw" "breakout.pbl";
- "w_cancellami.srw" "breakout.pbl";
 @end;
