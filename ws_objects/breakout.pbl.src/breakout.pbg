@@ -5,5 +5,6 @@
 @begin Objects 
  "breakout.sra" "breakout.pbl";
  "d_breakout.srd" "breakout.pbl";
+ "zzzzzzzzz.sru" "breakout.pbl";
  "w_breakout.srw" "breakout.pbl";
 @end;
